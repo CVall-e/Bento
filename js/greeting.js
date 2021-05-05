@@ -8,8 +8,8 @@ const name = ' クララ';
 // Here you can change your greetings
 const gree1 = '寝る!  ';
 const gree2 = 'おはよ!  ';
-const gree3 = 'こんばんわ  ';
-const gree4 = 'こんにちわ,  ';
+const gree3 = 'こんばんは,  ';
+const gree4 = 'こんにちは,  ';
 
 // Define the hours of the greetings
 if (hour >= 23 && hour < 5) {
